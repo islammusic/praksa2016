@@ -7,6 +7,8 @@ $id = $_SESSION['id_uporabnika'];
 
 //toliko, da testiram
 
+//tole je pa uroseva koda
+
 if (isset($_GET['id_a'])) {
     //izpisali vrednost avtomobila, ki ga iščemo
     $id_a = (int)$_GET['id_a'];
