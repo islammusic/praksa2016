@@ -1,0 +1,28 @@
+body {
+				background-color: #50abff;
+				font-family: Verdana;
+			}
+			h1 {
+				color: #ffffff;
+			}
+			p {
+				background-color: #ee22ab;
+				width: 30%;
+				float: left;
+				margin: 10px;
+				
+			}
+			div {
+				width: 30%;
+				border-color: #ffffff;
+				border-width: 5px;
+				border-style: solid;
+				padding: 5px 20px 5px 20px;
+				float: left;
+				margin: 10px;
+				border-radius: 20px;
+			}
+			#kaleb {
+				background-color: #000000;
+				color: #ffffff;
+			}
