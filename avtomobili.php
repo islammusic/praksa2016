@@ -5,6 +5,8 @@ include_once 'baza.php';
 
 $id = $_SESSION['id_uporabnika'];
 
+//toliko, da testiram
+
 if (isset($_GET['id_a'])) {
     //izpisali vrednost avtomobila, ki ga iščemo
     $id_a = (int)$_GET['id_a'];
